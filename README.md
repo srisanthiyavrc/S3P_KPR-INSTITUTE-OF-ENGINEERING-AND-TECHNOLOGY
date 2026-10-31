@@ -674,9 +674,13 @@ Its value lies in the workflow, experimentation, and transparency of its limitat
 ---
 ALL SUBMISSION REQUIREMENTS : https://drive.google.com/drive/folders/1on646SzZObMUAq1k42irUrkGYEGXZruD
 
-## 👤 Author
+## Project Contributors
 
-**Sahanaa**
+**Original Author:** SAHANA M R
 
-[GitHub](https://github.com/Sahanaa-Coder) · [LinkedIn](https://www.linkedin.com/in/sahanaa-mr-61782a36b)
+**Co-Developer:** SRI SANTHIYA V R C
+
+Both contributors worked on the development of this software prototype.
+
+[GitHub](https://github.com/srisanthiyavrc) · [LinkedIn](https://www.linkedin.com/in/sri-santhiya-a7951937b)
 ---
